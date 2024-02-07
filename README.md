@@ -1,2 +1,3 @@
 # LH_CD_Leon
-LH_CD_leon
+O projeto foi rodado no Python direto do googlle collab 
+colab.research.google.com/
